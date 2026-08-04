@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1285,
-    "timeDay": 1285,
-    "timeWeek": 1285,
-    "timeMonth": 1285,
-    "timeYear": 1285,
+    "time": 931,
+    "timeDay": 931,
+    "timeWeek": 931,
+    "timeMonth": 931,
+    "timeYear": 931,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/omega.ptirc.org.ico",
     "slug": "p-tirc-irc-omega-tls",
     "status": "down",
-    "uptime": "4.07%",
-    "uptimeDay": "4.07%",
-    "uptimeWeek": "4.07%",
-    "uptimeMonth": "4.07%",
-    "uptimeYear": "4.07%",
+    "uptime": "2.79%",
+    "uptimeDay": "2.79%",
+    "uptimeWeek": "2.79%",
+    "uptimeMonth": "2.79%",
+    "uptimeYear": "2.79%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-04": 5
+      "2026-08-04": 7
     }
   }
 ]
