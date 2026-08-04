@@ -7,7 +7,7 @@ sites:
     url: https://ptirc.org
 
   - name: PTirc IRC (omega, TLS)
-    url: tcp://omega.ptirc.org:6697
+    url: https://omega.ptirc.org:6697
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
