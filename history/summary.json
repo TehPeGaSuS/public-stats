@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 931,
-    "timeDay": 931,
-    "timeWeek": 931,
-    "timeMonth": 931,
-    "timeYear": 931,
+    "time": 892,
+    "timeDay": 892,
+    "timeWeek": 892,
+    "timeMonth": 892,
+    "timeYear": 892,
     "dailyMinutesDown": {}
   },
   {
     "name": "PTirc IRC (omega, TLS)",
-    "url": "tcp://omega.ptirc.org:6697",
+    "url": "https://omega.ptirc.org:6697",
     "icon": "https://icons.duckduckgo.com/ip3/omega.ptirc.org.ico",
     "slug": "p-tirc-irc-omega-tls",
     "status": "down",
-    "uptime": "2.79%",
-    "uptimeDay": "2.79%",
-    "uptimeWeek": "2.79%",
-    "uptimeMonth": "2.79%",
-    "uptimeYear": "2.79%",
+    "uptime": "0.72%",
+    "uptimeDay": "0.72%",
+    "uptimeWeek": "0.72%",
+    "uptimeMonth": "0.72%",
+    "uptimeYear": "0.72%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-04": 7
+      "2026-08-04": 28
     }
   }
 ]
