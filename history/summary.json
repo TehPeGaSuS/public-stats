@@ -23,16 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/omega.ptirc.org.ico",
     "slug": "p-tirc-irc-omega-tls",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "60.25%",
+    "uptimeDay": "60.25%",
+    "uptimeWeek": "60.25%",
+    "uptimeMonth": "60.25%",
+    "uptimeYear": "60.25%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-04": 0
+    }
   }
 ]
