@@ -4,17 +4,17 @@
     "url": "https://ptirc.org",
     "icon": "https://icons.duckduckgo.com/ip3/ptirc.org.ico",
     "slug": "p-tirc-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1035,
-    "timeDay": 1297,
-    "timeWeek": 1035,
-    "timeMonth": 1035,
-    "timeYear": 1035,
+    "time": 975,
+    "timeDay": 805,
+    "timeWeek": 975,
+    "timeMonth": 975,
+    "timeYear": 975,
     "dailyMinutesDown": {}
   }
 ]
