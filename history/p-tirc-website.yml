@@ -1,7 +1,7 @@
 url: https://ptirc.org
-status: up
-code: 200
-responseTime: 1297
-lastUpdated: 2026-08-08T23:29:52.566Z
+status: down
+code: 500
+responseTime: 312
+lastUpdated: 2026-08-09T17:47:23.020Z
 startTime: 2026-08-04T13:55:34.100Z
 generator: Upptime <https://github.com/upptime/upptime>
